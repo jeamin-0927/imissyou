@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+  },
+  "include": ["index.js", "./src", "./svg.d.ts", ".eslintrc.js", "babel.config.js", "metro.config.js", "jest.config.js"]
+}

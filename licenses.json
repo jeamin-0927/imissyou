@@ -1,0 +1,92 @@
+[
+  {
+    "license": "MIT",
+    "name": "recoil",
+    "description": "Recoil - A state management library for React",
+    "homepage": "https://github.com/facebookexperimental/Recoil.git"
+  },
+  {
+    "license": "MIT",
+    "name": "@tanstack/react-query",
+    "description": "Hooks for managing, caching and syncing asynchronous and remote data in React",
+    "homepage": "https://github.com/TanStack/query.git"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native-reanimated",
+    "description": "More powerful alternative to Animated library for React Native.",
+    "homepage": "git+https://github.com/software-mansion/react-native-reanimated.git"
+  },
+  {
+    "license": "MIT",
+    "name": "eslint-plugin-import",
+    "description": "Import with sanity.",
+    "homepage": "https://github.com/import-js/eslint-plugin-import"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native",
+    "description": "A framework for building native apps using React",
+    "homepage": "github:facebook/react-native"
+  },
+  {
+    "license": "MIT",
+    "name": "@react-navigation/native",
+    "description": "React Native integration for React Navigation",
+    "homepage": "https://github.com/react-navigation/react-navigation.git"
+  },
+  {
+    "license": "MIT",
+    "name": "@react-navigation/native-stack",
+    "description": "Native stack navigator using react-native-screens",
+    "homepage": "https://github.com/react-navigation/react-navigation.git"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native-safe-area-context",
+    "description": "A flexible way to handle safe area, also works on Android and web.",
+    "homepage": "https://github.com/th3rdwave/react-native-safe-area-context.git"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native-svg-transformer",
+    "description": "SVG transformer for react-native",
+    "homepage": "https://github.com/kristerkari/react-native-svg-transformer"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native-bootsplash",
+    "description": "Display a bootsplash on your app starts. Hide it when you want.",
+    "homepage": "https://github.com/zoontek/react-native-bootsplash.git"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native-screens",
+    "description": "Native navigation primitives for your React Native app.",
+    "homepage": "git+https://github.com/software-mansion/react-native-screens.git"
+  },
+  {
+    "license": "MIT",
+    "name": "react-native-svg",
+    "description": "SVG library for react-native",
+    "homepage": "https://github.com/react-native-community/react-native-svg"
+  },
+  {
+    "license": "MIT",
+    "name": "react",
+    "description": "React is a JavaScript library for building user interfaces.",
+    "homepage": "https://github.com/facebook/react.git"
+  },
+  {
+    "license": "Apache-2.0",
+    "name": "sharp",
+    "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, GIF, AVIF and TIFF images",
+    "homepage": "git://github.com/lovell/sharp"
+  },
+  {
+    "license": "MIT",
+    "name": "@react-native-async-storage/async-storage",
+    "description": "Asynchronous, persistent, key-value storage system for React Native.",
+    "homepage": "https://github.com/react-native-async-storage/async-storage.git"
+  }
+]
